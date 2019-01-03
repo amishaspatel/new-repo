@@ -3,4 +3,8 @@ Just
 Do
 It
 Don't
+<<<<<<< HEAD
 Does
+=======
+Do
+>>>>>>> master
